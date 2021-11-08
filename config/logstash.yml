@@ -1,0 +1,7 @@
+dead_letter_queue.enable: true
+config.debug: true
+config.test_and_exit: false
+log.level: debug
+log.format: plain
+pipeline.separate_logs: true
+pipeline.ecs_compatibility: disabled
